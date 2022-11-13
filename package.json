@@ -1,0 +1,20 @@
+{
+  "name": "codespace-auth-22",
+  "version": "1.0.0",
+  "description": "An auth system totally designed in github codespace",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiteshchoudhary/codespace-auth-22.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hiteshchoudhary/codespace-auth-22/issues"
+  },
+  "homepage": "https://github.com/hiteshchoudhary/codespace-auth-22#readme"
+}

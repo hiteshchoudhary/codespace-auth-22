@@ -4,7 +4,7 @@
   "description": "An auth system totally designed in github codespace",
   "main": "index.js",
   "scripts": {
-    "start": "index.js"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
